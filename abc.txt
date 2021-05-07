@@ -1,0 +1,13 @@
+ Volume in drive C is System
+ Volume Serial Number is F815-9C21
+
+ Directory of C:\Users\pkavya\Desktop\MyProject
+
+07-05-2021  14:56    <DIR>          .
+07-05-2021  14:56    <DIR>          ..
+07-05-2021  14:56                 0 abc.txt
+07-05-2021  02:06               387 kavya
+07-05-2021  02:07               434 kavya.txt
+07-05-2021  02:06               354 text.txt
+               4 File(s)          1,175 bytes
+               2 Dir(s)  175,872,049,152 bytes free
